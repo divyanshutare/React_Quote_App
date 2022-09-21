@@ -3,7 +3,7 @@
 Quotes App with having support of local storage to store the new quotes on system to save production cost.
 
 ## Preview Link
-
+https://react-quote-app-deployed.firebaseapp.com/
 
 ## To Start the Application
  * Clone the Repository
